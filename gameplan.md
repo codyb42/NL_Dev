@@ -2,8 +2,8 @@
 Take best designs:
 
 # Labs
-1. create custom post template to remove header and footer 
-   [wpbeginner](https://www.wpbeginner.com/wp-tutorials/how-to-create-custom-post-types-in-wordpress/)
+1. create custom post template to remove header and footer
+   [wpbeginner](https://www.wpbeginner.com/wp-tutorials/how-to-create-custom-post-types-in-wordpress/) $$$
 3. learn how to capture/store custom fields for the post
 4. Design layout of posts
 
