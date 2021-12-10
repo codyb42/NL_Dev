@@ -1,3 +1,17 @@
+# Note!
+must do's
+* get astra
+* configure memberpress
+* configure astra
+* download/configure backup plugin
+* reset nl stem on ionos
+* copy over new project
+
+less important
+* get database of schools
+* continue desigining layout
+
+
 # Home Page
 Take best designs:
 
