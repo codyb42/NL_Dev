@@ -11,6 +11,12 @@ function openCity(evt, cityName) {
   document.getElementById(cityName).style.display = "block";
   evt.currentTarget.className += " active";
 }
+function showPlus(){
+  var i, tablinks, tabcontent
+  tablinks.document.getElementsByClassName("tablinks");
+  for(i = 0; i <tablinks.length; i++){
+    if(tablinks[i].	  
+	
 
 // Get the element with id="defaultOpen" and click on it
 document.getElementById("defaultOpen").click();
